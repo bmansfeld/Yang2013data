@@ -7,6 +7,10 @@ This is a data package for running with the QTLseqr vignette. Please read the vi
 
 For more information on running QTLseqr go to: <https://github.com/bmansfeld/QTLseqr>
 
+he data is derived from: Mapping of Quantitative Trait Loci Underlying Cold Tolerance in Rice Seedlings via High-Throughput Sequencing of Pooled Extremes. Yang Z, Huang D, Tang W, Zheng Y, Liang K, et al. (**2013**) PLOS ONE 8(7): e68433. <https://doi.org/10.1371/journal.pone.0068433>
+
+Raw reads were downloaded from the NCBI Short Read Archive, aligned to the v7 Nipponbare genome (<http://rice.plantbiology.msu.edu/>) and SNPs were called as described in the GATK “Best Practices” (<https://software.broadinstitute.org/gatk/best-practices/>).
+
 Installation
 ------------
 
